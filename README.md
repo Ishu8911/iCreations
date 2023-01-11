@@ -1,2 +1,2 @@
 # iCreations
-This is a experimental project!
+This is an experimental project!
